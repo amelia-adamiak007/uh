@@ -1,4 +1,5 @@
 // lage repository
+// uh = navn av repository
 
 echo "# uh" >> README.md
 git init
