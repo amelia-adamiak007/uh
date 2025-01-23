@@ -1,0 +1,16 @@
+// lage repository
+
+echo "# uh" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/amelia-adamiak007/uh.git
+git push -u origin main
+
+
+// oppdaterer filer i repository
+
+git add .
+git commit -m "testest"
+git push -u origin main
